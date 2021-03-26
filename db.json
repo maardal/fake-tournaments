@@ -2,11 +2,16 @@
   "tournaments": [
     {
       "id": 123,
-      "games": 2
+      "games": [
+          123,
+          124,
+       ]
     },
     {
       "id": 124,
-      "games": 1
+      "games": [
+          125
+       ]
     }
   ]
 }
